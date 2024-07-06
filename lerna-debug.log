@@ -1,4 +1,4 @@
-39 error Error: Command failed with exit code 1: git commit -F /private/var/folders/20/jr8g51qn3z93t4m8102gf63h0000gn/T/0955d4fe-8f51-4185-8b09-ef2d2e42837e/lerna-commit.txt
+39 error Error: Command failed with exit code 1: git commit -F /private/var/folders/20/jr8g51qn3z93t4m8102gf63h0000gn/T/6dd55141-25b4-4a25-8eb1-d00485ac9695/lerna-commit.txt
 39 error [STARTED] Preparing lint-staged...
 39 error [COMPLETED] Preparing lint-staged...
 39 error [STARTED] Running tasks for staged files...
@@ -21,8 +21,8 @@
 39 error [COMPLETED] Cleaning up temporary files...
 39 error ⧗   input: Publish
 39 error
-39 error  - @kno/cra@0.0.13
-39 error  - @kno/utils@0.0.12
+39 error  - @kno/cra@0.0.14
+39 error  - @kno/utils@0.0.13
 39 error ✖   subject may not be empty [subject-empty]
 39 error ✖   type may not be empty [type-empty]
 39 error
