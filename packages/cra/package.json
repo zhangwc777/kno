@@ -1,6 +1,6 @@
 {
   "name": "@kno/cra",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "description": "> TODO: description",
   "homepage": "",
   "main": "lib/cra.js",
