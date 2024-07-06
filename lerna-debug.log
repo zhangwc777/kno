@@ -1,0 +1,38 @@
+39 error Error: Command failed with exit code 1: git commit -F /private/var/folders/20/jr8g51qn3z93t4m8102gf63h0000gn/T/0955d4fe-8f51-4185-8b09-ef2d2e42837e/lerna-commit.txt
+39 error [STARTED] Preparing lint-staged...
+39 error [COMPLETED] Preparing lint-staged...
+39 error [STARTED] Running tasks for staged files...
+39 error [STARTED] package.json — 2 files
+39 error [STARTED] *.{md,json} — 2 files
+39 error [STARTED] *.{css,less} — 0 files
+39 error [STARTED] *.{js,jsx} — 0 files
+39 error [STARTED] *.{ts,tsx} — 0 files
+39 error [SKIPPED] *.{css,less} — no files
+39 error [SKIPPED] *.{js,jsx} — no files
+39 error [SKIPPED] *.{ts,tsx} — no files
+39 error [STARTED] prettier --write --no-error-on-unmatched-pattern
+39 error [COMPLETED] prettier --write --no-error-on-unmatched-pattern
+39 error [COMPLETED] *.{md,json} — 2 files
+39 error [COMPLETED] package.json — 2 files
+39 error [COMPLETED] Running tasks for staged files...
+39 error [STARTED] Applying modifications from tasks...
+39 error [COMPLETED] Applying modifications from tasks...
+39 error [STARTED] Cleaning up temporary files...
+39 error [COMPLETED] Cleaning up temporary files...
+39 error ⧗   input: Publish
+39 error
+39 error  - @kno/cra@0.0.13
+39 error  - @kno/utils@0.0.12
+39 error ✖   subject may not be empty [subject-empty]
+39 error ✖   type may not be empty [type-empty]
+39 error
+39 error ✖   found 2 problems, 0 warnings
+39 error ⓘ   Get help: https://github.com/conventional-changelog/commitlint/#what-is-commitlint
+39 error
+39 error husky - commit-msg script failed (code 1)
+39 error     at makeError (/Users/zhangwc/Documents/Work/Wizard/kno/node_modules/.pnpm/execa@5.0.0/node_modules/execa/lib/error.js:59:11)
+39 error     at handlePromise (/Users/zhangwc/Documents/Work/Wizard/kno/node_modules/.pnpm/execa@5.0.0/node_modules/execa/index.js:114:26)
+39 error     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+39 error     at async VersionCommand.gitCommitAndTagVersionForUpdates (/Users/zhangwc/Documents/Work/Wizard/kno/node_modules/.pnpm/lerna@8.1.5/node_modules/lerna/dist/index.js:9922:11)
+39 error     at async VersionCommand.commitAndTagUpdates (/Users/zhangwc/Documents/Work/Wizard/kno/node_modules/.pnpm/lerna@8.1.5/node_modules/lerna/dist/index.js:9903:18)
+39 error     at async Promise.all (index 0)
