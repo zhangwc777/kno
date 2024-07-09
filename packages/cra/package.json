@@ -3,7 +3,7 @@
   "version": "0.1.1",
   "description": "> TODO: description",
   "homepage": "",
-  "main": "lib/cra.js",
+  "main": "lib/index.js",
   "license": "MIT",
   "author": "jiuqianqi",
   "directories": {
