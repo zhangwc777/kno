@@ -27,5 +27,8 @@
   "scripts": {
     "test": "node ./__tests__/cra.test.js"
   },
-  "gitHead": "ae8bf5c97556e214d6cd69d84198fad86b0024a3"
+  "gitHead": "ae8bf5c97556e214d6cd69d84198fad86b0024a3",
+  "dependencies": {
+    "@kno/utils": "workspace:^"
+  }
 }
