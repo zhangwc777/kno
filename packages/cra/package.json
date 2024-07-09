@@ -13,6 +13,9 @@
   "files": [
     "lib"
   ],
+  "bin": {
+    "kno-cra": "./lib/index.js"
+  },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/",
     "access": "public"
