@@ -1,12 +1,7 @@
 import React from 'react';
-import { Input } from '@kno/beacon';
 
 function App() {
-    return (
-        <div>
-            <Input />
-        </div>
-    );
+    return <div>home</div>;
 }
 
 export default App;

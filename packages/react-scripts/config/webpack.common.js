@@ -9,7 +9,7 @@ const appDirectory = process.cwd();
 const resolveApp = (relativePath) => path.resolve(appDirectory, relativePath);
 module.exports = {
   // 入口文件
-  entry: resolveApp("src/index.tsx"),
+  entry: resolveApp("src/main.tsx"),
   // 打包文件出口
   output: {
     publicPath: "/", // 打包后文件的公共前缀路径
