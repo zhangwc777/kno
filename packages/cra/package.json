@@ -1,6 +1,6 @@
 {
   "name": "@kno/cra",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "description": "> TODO: description",
   "homepage": "",
   "main": "lib/index.js",
@@ -29,9 +29,9 @@
   },
   "gitHead": "ae8bf5c97556e214d6cd69d84198fad86b0024a3",
   "dependencies": {
-    "@kno/utils": "workspace:^",
     "@kno/cra-template": "workspace:^",
     "@kno/react-scripts": "workspace:^",
+    "@kno/utils": "workspace:^",
     "commander": "^7.0.0"
   }
 }
