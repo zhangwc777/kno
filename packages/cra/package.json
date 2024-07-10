@@ -29,6 +29,9 @@
   },
   "gitHead": "ae8bf5c97556e214d6cd69d84198fad86b0024a3",
   "dependencies": {
-    "@kno/utils": "workspace:^"
+    "@kno/utils": "workspace:^",
+    "@kno/cra-template": "workspace:^",
+    "@kno/react-scripts": "workspace:^",
+    "commander": "^7.0.0"
   }
 }

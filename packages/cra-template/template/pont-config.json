@@ -1,0 +1,10 @@
+{
+    "originUrl": "https://petstore.swagger.io/v2/swagger.json",
+    "templatePath": "./node_modules/@kno/pont/template/t-1",
+    "outDir": "./src/services",
+    "urlPrefixes": "/api/v1",
+    "request": "@utils/request",
+    "mocks": {
+        "enable": false
+    }
+}

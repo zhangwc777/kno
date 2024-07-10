@@ -1,0 +1,32 @@
+{
+  "name": "@kno/cra-template",
+  "version": "0.1.0",
+  "description": "> TODO: description",
+  "author": "jiuqianqi",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/cra-template.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@e.coding.net:g-fvlo6487/forward/forward.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/@kno/cra-template.test.js"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "gitHead": "51d8d80b15dc02894b3794827df5fc128398c93c",
+  "devDependencies": {
+    "@types/react": "^18.3.3"
+  }
+}

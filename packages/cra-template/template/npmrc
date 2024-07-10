@@ -1,0 +1,4 @@
+shamefully-hoist=true # 所有依赖移动至顶层
+auto-install-peers=true # 
+strict-peer-dependencies=false # 不开启严格检查对等依赖
+engine-strict = true #开启严格node版本校验    
