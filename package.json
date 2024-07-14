@@ -2,15 +2,13 @@
   "workspaces": [
     "packages/*"
   ],
+  "private": true,
   "license": "MIT",
   "dependencies": {
     "@kno/utils": "workspace:^",
     "@types/node": "^20.14.10",
     "eslint-plugin-react": "7.33.2",
     "typescript": "^5.5.3"
-  },
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
   },
   "lint-staged": {
     "*.{md,json}": [

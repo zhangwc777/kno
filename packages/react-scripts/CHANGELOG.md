@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.3.2](https://e.coding.net/g-fvlo6487/forward/forward/compare/@kno/react-scripts@0.3.1...@kno/react-scripts@0.3.2) (2024-07-14)
+
+### Bug Fixes
+
+- @kno/react-script 刷新404 ([a6f7f8d](https://e.coding.net/g-fvlo6487/forward/forward/commits/a6f7f8d70608f3884c7e66405208f815d4c1f35b))
+
 ## [0.3.1](https://e.coding.net/g-fvlo6487/forward/forward/compare/@kno/react-scripts@0.3.0...@kno/react-scripts@0.3.1) (2024-07-10)
 
 ### Bug Fixes
