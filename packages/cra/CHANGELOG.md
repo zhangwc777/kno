@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.3.0](https://e.coding.net/g-fvlo6487/forward/forward/compare/@kno/cra@0.2.3...@kno/cra@0.3.0) (2024-07-20)
+
+### Features
+
+- @kno/cra 解决@kno/cra 在启动时报错 ([e3e416a](https://e.coding.net/g-fvlo6487/forward/forward/commits/e3e416abb0788783514d9267f14538d6e5ee97dd))
+
 ## [0.2.5](https://e.coding.net/g-fvlo6487/forward/forward/compare/@kno/cra@0.2.3...@kno/cra@0.2.5) (2024-07-14)
 
 **Note:** Version bump only for package @kno/cra
