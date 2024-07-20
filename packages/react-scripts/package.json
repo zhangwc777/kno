@@ -1,9 +1,13 @@
 {
   "name": "@kno/react-scripts",
-  "version": "0.3.3",
+  "version": "0.4.1",
   "description": "> TODO: description",
-  "author": "张文聪 <9535666+zhang-wencong999@user.noreply.gitee.com>",
-  "homepage": "",
+  "homepage": "https://github.com/zhangwc777/kno",
+  "author": {
+    "name": "jiuqianqi",
+    "email": "495715626@qq.com",
+    "url": "https://github.com/zhangwc777/kno"
+  },
   "license": "ISC",
   "directories": {
     "lib": "lib",
@@ -12,6 +16,12 @@
   "files": [
     "config",
     "scripts"
+  ],
+  "keywords": [
+    "kno",
+    "react",
+    "typescript",
+    "webpack"
   ],
   "main": "bin/react-scripts.js",
   "bin": {
@@ -27,7 +37,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@e.coding.net:g-fvlo6487/forward/forward.git"
+    "url": "git@github.com:zhangwc777/kno.git"
   },
   "dependencies": {
     "@babel/core": "^7.22.17",
