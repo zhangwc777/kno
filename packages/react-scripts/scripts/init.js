@@ -103,7 +103,7 @@ module.exports = function (appPath, appName, verbose, originalDirectory, templat
   const templateScripts = templateJson.scripts || {};
   appPackage.scripts = Object.assign(
     {
-      start: "npm run pont-generate && kno start",
+      start: "kno start",
       build: "kno build",
       prepare: "husky install",
       preinstall: "npx only-allow pnpm",
