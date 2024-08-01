@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.8.0](https://github.com/zhangwc777/kno/compare/@kno/react-scripts@0.3.3...@kno/react-scripts@0.8.0) (2024-08-01)
+
+### Features
+
+- @kno/cra 解决@kno/cra 在启动时报错 ([e3e416a](https://github.com/zhangwc777/kno/commit/e3e416abb0788783514d9267f14538d6e5ee97dd))
+
 # [0.4.0](https://e.coding.net/g-fvlo6487/forward/forward/compare/@kno/react-scripts@0.3.3...@kno/react-scripts@0.4.0) (2024-07-20)
 
 ### Features
