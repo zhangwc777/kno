@@ -1,6 +1,6 @@
 {
   "name": "@kno/cra",
-  "version": "0.9.0",
+  "version": "0.10.0",
   "description": "> TODO: description",
   "main": "lib/index.js",
   "license": "MIT",
@@ -40,9 +40,9 @@
   },
   "gitHead": "d86546f44774941135888e226adc471466be38e1",
   "dependencies": {
-    "@kno/cra-template": "^0.9.0",
-    "@kno/react-scripts": "^0.9.0",
-    "@kno/utils": "^0.9.0",
+    "@kno/cra-template": "^0.10.0",
+    "@kno/react-scripts": "^0.10.0",
+    "@kno/utils": "^0.10.0",
     "commander": "^7.0.0"
   }
 }
