@@ -87,13 +87,13 @@ importers:
   packages/cra:
     dependencies:
       "@kno/cra-template":
-        specifier: workspace:^
+        specifier: ^0.9.0
         version: link:../cra-template
       "@kno/react-scripts":
-        specifier: workspace:^
+        specifier: ^0.9.0
         version: link:../react-scripts
       "@kno/utils":
-        specifier: workspace:^
+        specifier: ^0.9.0
         version: link:../utils
       commander:
         specifier: ^7.0.0
