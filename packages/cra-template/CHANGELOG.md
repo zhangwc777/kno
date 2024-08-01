@@ -3,6 +3,26 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.5.0](https://github.com/zhangwc777/kno/compare/@kno/cra-template@0.2.1...@kno/cra-template@0.5.0) (2024-08-01)
+
+### Bug Fixes
+
+- @kno/cra 解决子包版本没发布 ([b83219b](https://github.com/zhangwc777/kno/commit/b83219ba35e922962aa22af1bb58920f5f1db101))
+
+### Features
+
+- @kno/cra 解决@kno/cra 在启动时报错 ([e3e416a](https://github.com/zhangwc777/kno/commit/e3e416abb0788783514d9267f14538d6e5ee97dd))
+
+# [0.4.0](https://github.com/zhangwc777/kno/compare/@kno/cra-template@0.2.1...@kno/cra-template@0.4.0) (2024-08-01)
+
+### Bug Fixes
+
+- @kno/cra 解决子包版本没发布 ([491c631](https://github.com/zhangwc777/kno/commit/491c631da2d26ef191c030d6698324612c56cb08))
+
+### Features
+
+- @kno/cra 解决@kno/cra 在启动时报错 ([e3e416a](https://github.com/zhangwc777/kno/commit/e3e416abb0788783514d9267f14538d6e5ee97dd))
+
 # [0.3.0](https://e.coding.net/g-fvlo6487/forward/forward/compare/@kno/cra-template@0.2.1...@kno/cra-template@0.3.0) (2024-07-20)
 
 ### Features

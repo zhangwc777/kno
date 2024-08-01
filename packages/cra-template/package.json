@@ -1,6 +1,6 @@
 {
   "name": "@kno/cra-template",
-  "version": "0.3.1",
+  "version": "0.5.0",
   "description": "> TODO: description",
   "license": "ISC",
   "main": "lib/cra-template.js",
@@ -15,19 +15,10 @@
     "cra-template",
     "typescript"
   ],
-  "homepage": "https://github.com/zhangwc777/kno",
-  "author": {
-    "name": "jiuqianqi",
-    "email": "495715626@qq.com",
-    "url": "https://github.com/zhangwc777/kno"
-  },
+  "author": "jiuqianqi",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/",
     "access": "public"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:zhangwc777/kno.git"
   },
   "scripts": {
     "test": "node ./__tests__/@kno/cra-template.test.js"

@@ -1,13 +1,8 @@
 {
   "name": "@kno/react-scripts",
-  "version": "0.4.2",
+  "version": "0.6.0",
   "description": "> TODO: description",
-  "homepage": "https://github.com/zhangwc777/kno",
-  "author": {
-    "name": "jiuqianqi",
-    "email": "495715626@qq.com",
-    "url": "https://github.com/zhangwc777/kno"
-  },
+  "author": "jiuqianqi",
   "license": "ISC",
   "directories": {
     "lib": "lib",
@@ -34,10 +29,6 @@
   "publishConfig": {
     "registry": "https://registry.npmjs.org/",
     "access": "public"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:zhangwc777/kno.git"
   },
   "dependencies": {
     "@babel/core": "^7.22.17",
