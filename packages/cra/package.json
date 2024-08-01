@@ -29,11 +29,11 @@
   "scripts": {
     "test": "node ./__tests__/cra.test.js"
   },
-  "gitHead": "ae8bf5c97556e214d6cd69d84198fad86b0024a3",
+  "gitHead": "6579447adccbcfb074735897fc9302303b45f55e",
   "dependencies": {
-    "@kno/cra-template": "workspace:^",
-    "@kno/react-scripts": "workspace:^",
-    "@kno/utils": "workspace:^",
+    "@kno/cra-template": "^0.6.0",
+    "@kno/react-scripts": "^0.7.0",
+    "@kno/utils": "^0.3.0",
     "commander": "^7.0.0"
   }
 }

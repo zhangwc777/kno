@@ -51,7 +51,6 @@
     "rollup-plugin-terser": "^7.0.2"
   },
   "scripts": {
-    "preinstall": "npx only-allow pnpm",
-    "prepare": "husky install"
+    "preinstall": "npx only-allow pnpm"
   }
 }
