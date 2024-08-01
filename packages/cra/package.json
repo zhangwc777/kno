@@ -1,6 +1,6 @@
 {
   "name": "@kno/cra",
-  "version": "0.3.3",
+  "version": "0.7.0",
   "description": "> TODO: description",
   "main": "lib/index.js",
   "license": "MIT",
