@@ -1,6 +1,6 @@
 {
   "name": "@kno/react-scripts",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "description": "> TODO: description",
   "homepage": "https://github.com/zhangwc777/kno",
   "author": {
@@ -92,5 +92,6 @@
     "webpack-cli": "^5.1.4",
     "webpack-dev-server": "^4.15.1",
     "webpack-merge": "^5.9.0"
-  }
+  },
+  "gitHead": "d86546f44774941135888e226adc471466be38e1"
 }

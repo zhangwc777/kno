@@ -1,6 +1,6 @@
 {
   "name": "@kno/cra-template",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "description": "> TODO: description",
   "license": "ISC",
   "main": "lib/cra-template.js",
@@ -36,7 +36,7 @@
     "template",
     "template.json"
   ],
-  "gitHead": "51d8d80b15dc02894b3794827df5fc128398c93c",
+  "gitHead": "d86546f44774941135888e226adc471466be38e1",
   "devDependencies": {
     "@types/react": "^18.3.3"
   }

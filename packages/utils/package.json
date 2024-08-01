@@ -1,6 +1,6 @@
 {
   "name": "@kno/utils",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "description": "> TODO: description",
   "homepage": "",
   "license": "MIT",
@@ -29,5 +29,6 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:zhangwc777/kno.git"
-  }
+  },
+  "gitHead": "d86546f44774941135888e226adc471466be38e1"
 }
