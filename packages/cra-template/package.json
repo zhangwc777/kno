@@ -1,6 +1,6 @@
 {
   "name": "@kno/cra-template",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "> TODO: description",
   "license": "ISC",
   "main": "lib/cra-template.js",
